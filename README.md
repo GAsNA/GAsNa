@@ -1,7 +1,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=GAsNa&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 [![rleseur's 42 stats](https://badge42.vercel.app/api/v2/cl7s08vet00110gmnrmm2benl/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)
 
-<!---
+<!--
 ## Projects
 - Libft:                [![rleseur's 42 Libft Score](https://badge42.vercel.app/api/v2/cl7s08vet00110gmnrmm2benl/project/2415160)](https://github.com/JaeSeoKim/badge42)
 - Ft_printf:            [![rleseur's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl7s08vet00110gmnrmm2benl/project/2425129)](https://github.com/JaeSeoKim/badge42)
@@ -25,10 +25,12 @@
 - Cub3D:                [![rleseur's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl7s08vet00110gmnrmm2benl/project/2802077)](https://github.com/JaeSeoKim/badge42)
 - Inception:            [![rleseur's 42 Inception Score](https://badge42.vercel.app/api/v2/cl7s08vet00110gmnrmm2benl/project/2848533)](https://github.com/JaeSeoKim/badge42)
 - Ft_containers:        [![rleseur's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl7s08vet00110gmnrmm2benl/project/2884532)](https://github.com/JaeSeoKim/badge42)
+- Ft_irc:               [![rleseur's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl7s08vet00110gmnrmm2benl/project/2917238)](https://github.com/JaeSeoKim/badge42)
 
 ## Exams
 - Exam Rank 2: [![rleseur's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl7s08vet00110gmnrmm2benl/project/2443092)](https://github.com/JaeSeoKim/badge42)
 - Exam Rank 3: [![rleseur's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl7s08vet00110gmnrmm2benl/project/2525431)](https://github.com/JaeSeoKim/badge42)
 - Exam Rank 4: [![rleseur's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl7s08vet00110gmnrmm2benl/project/2636935)](https://github.com/JaeSeoKim/badge42)
 - Exam Rank 5: [![rleseur's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cl7s08vet00110gmnrmm2benl/project/2837064)](https://github.com/JaeSeoKim/badge42)
+
 -->
