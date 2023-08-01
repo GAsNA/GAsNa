@@ -3,7 +3,7 @@ Let me introduce myself:<br />
 - I am a student at <a href="https://profile.intra.42.fr/users/rleseur"><img src="https://img.shields.io/badge/Paris-FFFFFF?style=plastic&logo=42&logoColor=000000" /></a>
 <div align="center">
   <a href="https://github.com/JaeSeoKim/badge42" target="_blank" rel="noopener noreferrer">
-    <img width="40%" src="https://badge42.vercel.app/api/v2/cl7s08vet00110gmnrmm2benl/stats?cursusId=21&coalitionId=45" />
+    <img height=175 src="https://badge42.vercel.app/api/v2/cl7s08vet00110gmnrmm2benl/stats?cursusId=21&coalitionId=45" />
   </a>
 </div>
 
