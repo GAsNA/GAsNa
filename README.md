@@ -3,7 +3,7 @@ Let me introduce myself:<br />
 - I am a student at <a href="https://profile.intra.42.fr/users/rleseur"><img src="https://img.shields.io/badge/Paris-FFFFFF?style=plastic&logo=42&logoColor=000000" /></a>
 <div align="center">
   <a href="https://github.com/JaeSeoKim/badge42" target="_blank" rel="noopener noreferrer">
-    <img height=175 src="https://badge42.vercel.app/api/v2/cl7s08vet00110gmnrmm2benl/stats?cursusId=21&coalitionId=45" />
+    <img alt="rleseur's 42 stats" height=175 src="https://badge42.vercel.app/api/v2/cl7s08vet00110gmnrmm2benl/stats?cursusId=21&coalitionId=45" />
   </a>
 </div>
 
@@ -13,10 +13,10 @@ Let me introduce myself:<br />
 ## GitHub Stats
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAsNa&layout=compact&theme=tokyonight&hide_border=true" />
+    <img alt="top languages" height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAsNa&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img height=175 src="https://streak-stats.demolab.com?user=GAsNa&theme=tokyonight&hide_border=true" />
+    <img alt="streak stats" height=175 src="https://streak-stats.demolab.com?user=GAsNa&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
