@@ -2,21 +2,22 @@
 Let me introduce myself:<br />
 - I am a student at <a href="https://profile.intra.42.fr/users/rleseur"><img src="https://img.shields.io/badge/Paris-FFFFFF?style=plastic&logo=42&logoColor=000000" /></a>
 <div align="center">
-  <a href="https://github.com/JaeSeoKim/badge42" target="_blank" rel="noopener noreferrer">
-    <img alt="rleseur's 42 stats" height=175 src="https://badge42.vercel.app/api/v2/cl7s08vet00110gmnrmm2benl/stats?cursusId=21&coalitionId=45" />
+  <a href="https://github.com/Nimon77/badge42">
+    <img src="https://badge.nimon.fr/api/v2/cm6auio371026901mql1v5tvdi/stats?cursusId=21&coalitionId=45" alt="rleseur's 42 stats" />
   </a>
 </div>
-
-- I love to learn a lot of different things at the same time, and sometimes I get lost. 👀
-- Never ask me what project i'm working on right now. 🤫
 
 ## GitHub Stats
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="top languages" height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAsNa&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://git.io/streak-stats">
-    <img alt="streak stats" height=175 src="https://streak-stats.demolab.com?user=GAsNa&theme=tokyonight&hide_border=true" />
+</div>
+
+### Current Project
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Pin KFS-1" height=150 src="https://github-readme-stats.vercel.app/api/pin?username=GAsNa&repo=KFS-1&layout=compact&theme=tokyonight&hide_border=true&show_owner=true" />
   </a>
 </div>
 
